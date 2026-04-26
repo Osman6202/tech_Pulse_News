@@ -6,6 +6,7 @@ python-telegram-bot==21.3
 python-dotenv==1.0.1
 customtkinter>=5.2.0
 schedule>=1.2.0
+tzdata>=2024.1
 pystray>=0.19.5
 Pillow>=10.0.0
 pytest==8.2.0
